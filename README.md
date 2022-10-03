@@ -1,11 +1,11 @@
 # Seminar Write-up on Differentiable Physics
 
-Project work for the [*Master-Seminar - Deep Learning in Physics (IN2107,
-IN0014)*](https://www.cs.cit.tum.de/cg/teaching/summer-term-22/deep-learning-in-physics/)
+Project work for the [Master-Seminar - Deep Learning in Physics (IN2107,
+IN0014)](https://www.cs.cit.tum.de/cg/teaching/summer-term-22/deep-learning-in-physics/)
 course at TUM in the 2022 Summer semester.
 
-The seminar paper gives an overview of [*Learning to Control PDEs with Differentiable
-Physics*](https://arxiv.org/pdf/2001.07457.pdf). 
+The seminar paper gives an overview of [Learning to Control PDEs with Differentiable
+Physics](https://arxiv.org/pdf/2001.07457.pdf). 
 
 Compiled versions:
 - [Short Paper](https://bobarna.github.io/diff-physics-seminar/diff-physics-seminar-paper.pdf)
