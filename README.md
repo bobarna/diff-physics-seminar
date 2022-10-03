@@ -28,11 +28,4 @@ a broader overview of the topic:
     - Inductive Physical Bias
 
 As the presentation contains videos, it is also available as an online
-PowerPoint.
-
-
-## Compiling the Short Paper
-```
-make main.pdf
-```
-For details, see `Makefile`. 
+PowerPoint. (see above)
