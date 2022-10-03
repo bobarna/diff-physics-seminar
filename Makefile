@@ -10,6 +10,6 @@
 sample-acmtog.pdf:
 
 clean:
-	rm -f comment.cut sample-acmtog.{aux,bbl,blg,log,out,pdf}
+	rm -f comment.cut main.{aux,bbl,blg,log,out,pdf}
 	rm -f *-converted-to.pdf
 
